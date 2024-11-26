@@ -5,7 +5,6 @@ Web App for making shorten Link
 # SQL code
 
 ```
-=
 CREATE DATABASE IF NOT EXISTS `db_shorten_link`
 USE `db_shorten_link`;
 
